@@ -37,14 +37,7 @@ A gym management system for members, classes, and scheduling.
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/YOUR-BLUESKY-HANDLE)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK-NAME)
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=dark&hide_border=false&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark&hide_border=false" />
-</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
